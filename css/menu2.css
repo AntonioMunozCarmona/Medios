@@ -1,0 +1,135 @@
+/* ================================================================ 
+This copyright notice must be untouched at all times.
+
+The original version of this stylesheet and the associated (x)html
+is available at http://www.stunicholls.com/menu/tree_frog_horizontal.html
+Copyright (c) 2005-2007 Stu Nicholls. All rights reserved.
+This stylesheet and the associated (x)html may be modified in any 
+way to fit your requirements.
+=================================================================== */
+/*
+#outer {width:750px; height:400px; border:1px solid #ddd;}
+*/
+* {
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-color: #CCFFFF;
+}
+
+header{
+	width: 100%;
+}
+h1,h3{
+	width: 40%;
+	margin: 0px auto; 
+}
+nav{
+	width: 90%;
+	margin: 20px auto;
+	background: #024959;
+	padding: 5px;
+}
+
+.menu_bar {
+	display: none;
+}
+
+#menu {list-style-type:none; margin:20px auto;  position:relative; padding: 5px;}
+#menu ul {list-style-type:none; background:#024959; }
+#menu li {float:left; background:#657; position:relative;width:20%;}
+#menu li.sub {background:#024959; margin-right:1px; }
+
+#menu li, #menu li a {display:block; color:#fff; font-family:arial, sans-serif; line-height:24px; width:150px; text-decoration:none; text-align:center; cursor:pointer; font-weight:bold;}
+
+#menu li span{ margin-right: 10px;}
+
+#menu ul li a {text-align:left; text-indent:5px;}
+
+#menu ul {position:absolute;left:-9999px;}
+#menu li.click ul ul {position:absolute;left:-9999px;}
+#menu li.click ul li.hover ul ul {position:absolute;left:-9999px;}
+
+#menu li.hover {background:#024959; z-index:500;}
+#menu li.click {background:#024959;}
+
+#menu li.click ul li {margin-top:1px; border-right:0;}
+
+#menu li.click ul {left:0px; top:24px; background:#fff; border-right:1px solid #fff;}
+#menu li.click ul li.hover ul, 
+#menu li.click ul li.hover ul li.hover ul {left:125px; top:-1px; border-left:1px solid #fff; background:#fff;}
+
+#menu li.click ul li.hover ul li {background:#c60;}
+#menu li.click ul li.hover ul li.hover ul li {background:#780; z-index:500;}
+
+#menu li.click ul li.hover ul li.hover {z-index:500; background:#fa4;}
+#menu li.click ul li.hover ul li.hover a {color:#000;}
+
+#menu li.click ul li.hover ul li.hover ul li.hover {background:#aa0;}
+#menu li.click ul li.hover ul li.hover ul li.hover a {color:#fff;}
+
+#outer img.frog {display:block; float:left; margin:0 20px 20px 0;}
+#outer p {margin:0px; padding:17px 20px 0 0; color:#000; font-size:12px; font-family:arial, sans-serif; text-align:justify;}
+
+section{
+	margin:5em;
+	background: #CCFFFF;
+}
+footer{
+	position: relative; text-align: center; width: 100%; bottom: 0px;
+}
+/*
+@media screen and (max-width:800px){
+
+	header div nav{
+		width: 80%;
+		height: 100%;
+		left:-100%;
+		margin: 0;
+		position: fixed;
+	}
+	
+	menu ul li{
+		display: block;
+		float: none;
+		border-bottom: 1px solid rgba(255,255,255,.3);
+
+	}
+
+	.menu_bar{
+		display: block;
+		width: 100%;
+		background: #ccc;
+	}
+
+	.menu_bar .bt-menu {
+		display: block;
+		padding: 20px;
+		background: #024959;
+		color: #fff;
+		text-decoration: none;
+		font-weight: bold;
+		font-size: 25px;
+		-webkit-box-sizing:border-box;
+		-moz-box-sizing:border-box;
+		box-sizing: border-box;
+	}
+
+	.menu_bar span{
+		float: right;
+		font-size: 40px;
+	}
+}
+*/
+@media screen and (max-width:800px){
+    #menu li, #menu li a {line-height:50px; width:200px;text-align:left;padding-left:5px;}
+   
+    #menu li.click ul {left:0px; top:50px;}
+
+    h1,h3 {width: 90%;}
+    
+    #texto, footer { display:none;}
+
+   
+}
