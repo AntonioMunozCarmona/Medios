@@ -1,0 +1,828 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"error",
+				"error"
+			],
+			[
+				"sa",
+				"save"
+			],
+			[
+				"e",
+				"error"
+			],
+			[
+				"co",
+				"commentId"
+			],
+			[
+				"ne",
+				"new"
+			],
+			[
+				"com",
+				"comment"
+			],
+			[
+				"comm",
+				"commentController"
+			],
+			[
+				"lo",
+				"loginRequired"
+			],
+			[
+				"se",
+				"sessionController"
+			],
+			[
+				"re",
+				"req"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"t",
+				"type	Attr"
+			],
+			[
+				"a",
+				"action	Attr"
+			],
+			[
+				"call",
+				"callback"
+			],
+			[
+				"us",
+				"user"
+			],
+			[
+				"use",
+				"userController"
+			],
+			[
+				"r",
+				"res"
+			],
+			[
+				"pa",
+				"path"
+			],
+			[
+				"u",
+				"use"
+			],
+			[
+				"qu",
+				"quizId"
+			],
+			[
+				"comment",
+				"commentController"
+			],
+			[
+				"q",
+				"quizId"
+			],
+			[
+				"commen",
+				"comment_path"
+			],
+			[
+				"ca",
+				"catch"
+			],
+			[
+				"quiz",
+				"quizes"
+			],
+			[
+				"res",
+				"res"
+			],
+			[
+				"des",
+				"destroy"
+			],
+			[
+				"qui",
+				"quiz"
+			],
+			[
+				"er",
+				"errors"
+			],
+			[
+				"err",
+				"err"
+			],
+			[
+				"method",
+				"methodOverride"
+			],
+			[
+				"g",
+				"get	Get Elements"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"Q",
+				"Quiz"
+			],
+			[
+				"ge",
+				"GET"
+			],
+			[
+				"prot",
+				"protocol"
+			],
+			[
+				"pro",
+				"protocol"
+			],
+			[
+				"D",
+				"DATABASE_URL"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"st",
+				"stdin"
+			],
+			[
+				"as",
+				"ASCII"
+			],
+			[
+				"s",
+				"stdin"
+			],
+			[
+				"A",
+				"Amigos"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"exp",
+				"expRegNombre"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"boton",
+				"botonEnviar"
+			],
+			[
+				"limpiar",
+				"limpiarForm"
+			],
+			[
+				"bo",
+				"box-shadow"
+			],
+			[
+				"borde",
+				"border-radius"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"f",
+				"F60"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"thi",
+				"thin"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"E",
+				"E6344A"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"to",
+				"top"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"colo",
+				"color"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"mostrar",
+				"mostrar_hora"
+			],
+			[
+				"i",
+				"id	Attr"
+			],
+			[
+				"for",
+				"form	Tag"
+			],
+			[
+				"b",
+				"br"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"bacl",
+				"background-color"
+			],
+			[
+				"mos",
+				"mostrar_fecha"
+			],
+			[
+				"n",
+				"nav	Tag"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"hr",
+				"href	Attr"
+			],
+			[
+				"mues",
+				"muestraDatos"
+			],
+			[
+				"lon",
+				"longitud"
+			],
+			[
+				"latitud",
+				"latitud"
+			],
+			[
+				"local",
+				"localStorage"
+			],
+			[
+				"mu",
+				"muestraDatos"
+			],
+			[
+				"ins",
+				"Instalación"
+			],
+			[
+				"m",
+				"mes"
+			],
+			[
+				"l",
+				"line"
+			],
+			[
+				"he",
+				"header	Tag"
+			],
+			[
+				"conte",
+				"conten"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"bu",
+				"button"
+			],
+			[
+				"clas",
+				"className"
+			],
+			[
+				"en",
+				"entrada1"
+			],
+			[
+				"de",
+				"definido"
+			],
+			[
+				"on",
+				"onload	Attr"
+			],
+			[
+				"scr",
+				"Screen"
+			],
+			[
+				"sc",
+				"screen"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"borderr",
+				"border-right-color"
+			],
+			[
+				"o",
+				"ol	Tag"
+			],
+			[
+				"length",
+				"length-1"
+			],
+			[
+				"tie",
+				"tiempoTotal"
+			],
+			[
+				"dur",
+				"duracionruta"
+			],
+			[
+				"tiem",
+				"tiemporuta"
+			],
+			[
+				"ln",
+				"lngruta"
+			],
+			[
+				"la",
+				"latruta"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"al",
+				"alng"
+			],
+			[
+				"travel",
+				"travel_mode"
+			],
+			[
+				"tr",
+				"travel_mode"
+			],
+			[
+				"trave",
+				"travel_mode"
+			],
+			[
+				"lat",
+				"lat"
+			],
+			[
+				"map",
+				"map"
+			],
+			[
+				"j",
+				"javascipt"
+			],
+			[
+				"fill",
+				"fillStyle"
+			],
+			[
+				"gra",
+				"gray"
+			],
+			[
+				"fil",
+				"fillStyle"
+			],
+			[
+				"stro",
+				"strokeStyle"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Emmet: Expand Abbreviation"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,sys; exec(\"if sys.version_info < (3,) or os.name != 'nt': raise OSError('This code is for Windows ST3 only!')\"); pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": true,
+		"show_tabs": false,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Documentos/Antonio/Curso/apps/Medios/menu2.html",
+		"/C/Documentos/Antonio/Curso/apps/Medios/main.js",
+		"/C/Documentos/Antonio/Curso/apps/Medios/click_hover.js",
+		"/C/Documentos/Antonio/Curso/apps/Medios/menu2.css",
+		"/C/Documentos/Antonio/Curso/apps/Medios/menu2_Desarrollo.css",
+		"/C/Documentos/Antonio/Curso/apps/Medios/menu2_Desarrollo.html",
+		"/C/Users/Usuario/Downloads/p2pMod9.txt",
+		"/C/Documentos/Antonio/Curso/apps/quiz/public/stylesheets/style.css",
+		"/C/Documentos/Antonio/Curso/apps/quiz/controllers/statistics_controller.js",
+		"/C/Documentos/Antonio/Curso/apps/quiz/models/models.js",
+		"/C/Documentos/Antonio/Curso/apps/quiz/views/statistics/show.ejs",
+		"/C/Documentos/Antonio/Curso/apps/quiz/models/comment.js",
+		"/C/Documentos/Antonio/Curso/apps/quiz/routes/index.js",
+		"/C/Documentos/Antonio/Curso/apps/quiz/views/layout.ejs",
+		"/C/Documentos/Antonio/Curso/apps/quiz/app.js",
+		"/C/Documentos/Antonio/Curso/apps/quiz/controllers/session_controller.js",
+		"/C/Documentos/Antonio/Curso/apps/quiz/views/quizes/show.ejs",
+		"/C/Documentos/Antonio/Curso/apps/quiz/controllers/comment_controller.js",
+		"/C/Documentos/Antonio/Curso/apps/quiz/df",
+		"/C/Documentos/Antonio/Curso/apps/quiz/views/quizes/index.ejs",
+		"/C/Documentos/Antonio/Curso/apps/quiz/controllers/user_controller.js",
+		"/C/Documentos/Antonio/Curso/apps/quiz/views/sessions/new.ejs",
+		"/C/Documentos/Antonio/Curso/apps/quiz/controllers/session_controllers.js",
+		"/C/Documentos/Antonio/Curso/apps/quiz/controllers/session-controllers.js",
+		"/C/Documentos/Antonio/Curso/apps/quiz/views/comments/new.ejs",
+		"/C/Documentos/Antonio/Curso/apps/quiz/views/comments/news.ejs",
+		"/C/Documentos/Antonio/Curso/apps/quiz/controllers/quiz_controller.js",
+		"/C/Documentos/Antonio/Curso/apps/entrega.txt",
+		"/C/Documentos/Antonio/Curso/apps/quiz/views/quizes/_form.ejs",
+		"/C/Documentos/Antonio/Curso/apps/quiz/models/quiz.js",
+		"/C/Documentos/Antonio/Curso/apps/quiz/views/quizes/edit.ejs",
+		"/C/Documentos/Antonio/Curso/apps/quiz/package.json",
+		"/C/Documentos/Antonio/Curso/apps/quiz/views/index.ejs",
+		"/C/Documentos/Antonio/Curso/apps/quiz/public/stylesheets/wide.css",
+		"/C/Documentos/Antonio/Curso/apps/quiz/views/quizes/new.ejs",
+		"/C/Documentos/Antonio/Curso/apps/quiz/views/quizes/answer.ejs",
+		"/C/Documentos/Antonio/Curso/apps/quiz/.gitignore",
+		"/C/Documentos/Antonio/Curso/apps/quiz/.env",
+		"/C/Documentos/Antonio/Curso/apps/quiz-2015/package.json",
+		"/C/Documentos/Antonio/Curso/Proyectos/Ejemplo/Formulario/js/validaciones.js",
+		"/C/Documentos/Antonio/Curso/apps/ant/random/LICENSE.md",
+		"/C/Documentos/Antonio/Curso/apps/ant/random/README.md",
+		"/C/Documentos/Antonio/Curso/apps/ejercicio_p2p_obligatorio_mod4_jonay.js",
+		"/C/Documentos/Antonio/Curso/apps/EjercicioObligatorioModulo4.js",
+		"/C/Documentos/Antonio/Curso/apps/ejmodulo4.js",
+		"/C/Users/Usuario/Downloads/ejmodulo4.js",
+		"/C/Documentos/Antonio/Curso/apps/13_middleware_static.js",
+		"/C/Documentos/Antonio/Curso/apps/modulo4_middelware_2.js",
+		"/C/Documentos/Antonio/Curso/apps/modulo4_middelware_1.js",
+		"/C/Documentos/Antonio/Curso/apps/modulo4_path_2.js",
+		"/C/Documentos/Antonio/Curso/apps/public/dir/hola1.html",
+		"/C/Users/Usuario/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/Usuario/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Usuario/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Documentos/Antonio/Curso/Node/claseAgenda.js",
+		"/C/Documentos/Antonio/Curso/Node/Modulo2.js",
+		"/C/Documentos/Antonio/Curso/Node/moduloClosure.js",
+		"/C/Documentos/Antonio/Curso/Node/agenda_llamar_modulo.js",
+		"/C/Documentos/Antonio/Curso/Node/pru_evento.js",
+		"/C/Documentos/Antonio/Curso/Node/prueba1.js",
+		"/C/Documentos/Antonio/Curso/Node/while_4.js",
+		"/C/Documentos/Antonio/Curso/Node/Modulo1.js",
+		"/C/Documentos/Antonio/Curso/Proyectos/Ejemplo/Desarrollo/prueba.html",
+		"/C/Documentos/Antonio/Curso/Proyectos/Ejemplo/ResponsiveMultiLevelMenu/ResponsiveMultiLevelMenu/css/default.css",
+		"/C/Documentos/Antonio/Curso/Proyectos/Ejemplo/ResponsiveMultiLevelMenu/ResponsiveMultiLevelMenu/css/component.css",
+		"/C/Documentos/Antonio/Curso/Proyectos/Ejemplo/ResponsiveMultiLevelMenu/ResponsiveMultiLevelMenu/js/jquery.dlmenu.js",
+		"/C/Documentos/Antonio/Curso/Proyectos/MenuPrensa/menu2.html",
+		"/C/Documentos/Antonio/Curso/Proyectos/Ejemplo/1.html",
+		"/C/Documentos/Antonio/Curso/Proyectos/MenuPrensa/menu2.css",
+		"/C/Documentos/Antonio/Curso/Proyectos/Ejemplo/menu2_nuevo2.html",
+		"/C/Documentos/Antonio/Curso/HTML/curso idesweb/formulario1.html",
+		"/C/Documentos/Antonio/Curso/HTML/curso idesweb/formulario2.html",
+		"/C/Users/Usuario/AppData/Roaming/Sublime Text 3/Packages/Emmet/Default (Windows).sublime-keymap",
+		"/C/Users/Usuario/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Usuario/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/C/Users/Usuario/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/C/Users/Usuario/AppData/Roaming/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/C/Users/Usuario/AppData/Roaming/Sublime Text 3/Packages/User/HTML.sublime-settings",
+		"/C/Users/Usuario/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/D/Mis documentos en C/Antonio/Curso/Proyectos/Ejemplo/Versiones",
+		"/D/Mis documentos en C/Antonio/Curso/Proyectos/Ejemplo/ResponsiveMultiLevelMenu/ResponsiveMultiLevelMenu/js/jquery.dlmenu.js",
+		"/D/Mis documentos en C/Antonio/Curso/Ejercicio IdesWeb/tabla1.html",
+		"/D/Mis documentos en C/Antonio/Curso/Ejercicio IdesWeb/form1.html",
+		"/D/Mis documentos en C/Antonio/Curso/Ejercicio IdesWeb/tabla2.html",
+		"/D/Mis documentos en C/Antonio/Curso/Proyectos/Ejemplo/menu2_1.html",
+		"/D/Mis documentos en C/Antonio/Curso/Proyectos/MenuPrensa/index.html",
+		"/D/Mis documentos en C/Antonio/Curso/Proyectos/MenuPrensa/estilos.css",
+		"/D/Mis documentos en C/Antonio/Curso/Proyectos/MenuPrensa/fonts.css",
+		"/D/Mis documentos en C/Antonio/Curso/Proyectos/Ejemplo/click_hover.js",
+		"/D/Mis documentos en C/Antonio/Curso/Proyectos/Ejemplo/menu2.css",
+		"/D/Mis documentos en C/Antonio/Curso/Proyectos/MenuPrensa/menu.js",
+		"/D/Mis documentos en C/Antonio/Curso/Proyectos/Ejemplo/Copia de menu2.css",
+		"/D/Mis documentos en C/Antonio/Curso/Proyectos/Ejemplo/menu2_Version_2.html",
+		"/D/Mis documentos en C/Antonio/Curso/Proyectos/Ejemplo/menu2.html",
+		"/D/Mis documentos en C/Antonio/Curso/Proyectos/Ejemplo/fonts.css",
+		"/D/Mis documentos en C/Antonio/Curso/Proyectos/Ejemplo/prueba_menu_horizontal.html",
+		"/D/Mis documentos en C/Antonio/Curso/Proyectos/Ejemplo/prueba/index5.html",
+		"/D/Mis documentos en C/Antonio/Curso/Proyectos/Ejemplo/menu_horizontal.css",
+		"/D/Mis documentos en C/Antonio/Curso/Proyectos/MenuPrensa/style.css",
+		"/C/Users/Usuario/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/D/Mis documentos en C/Antonio/Curso/HTML/prueba/JQuery-Mobile-Slide-Menu-master/index.html",
+		"/D/Mis documentos en C/Antonio/Curso/HTML/libroweb.html",
+		"/D/Mis documentos en C/Antonio/Curso/HTML/Modulo10/prueba/css/geo.css",
+		"/D/Mis documentos en C/Antonio/Curso/HTML/Modulo10/package/manifest.webapp",
+		"/D/Mis documentos en C/Antonio/Curso/HTML/Modulo10/prueba/js/mapas2.js",
+		"/C/Users/Usuario/AppData/Local/Temp/Temp2_package.zip/manifest.webapp",
+		"/C/Users/Usuario/AppData/Local/Temp/Temp1_package.zip/manifest.webapp",
+		"/C/Users/Usuario/AppData/Local/Temp/Temp1_package (1).zip/manifest.webapp",
+		"/D/Mis documentos en C/Antonio/Curso/HTML/Modulo10/prueba/index.html",
+		"/D/Mis documentos en C/Antonio/Curso/HTML/Modulo10/prueba/install.htm",
+		"/D/Mis documentos en C/Antonio/Curso/HTML/Modulo10/prueba/manifest.webapp",
+		"/D/Mis documentos en C/Antonio/Curso/HTML/Modulo10/prueba/package.manifest",
+		"/D/Mis documentos en C/Antonio/Curso/HTML/antoprueba.html",
+		"/D/Mis documentos en C/Antonio/Curso/HTML/misestilos.css",
+		"/D/Mis documentos en C/Antonio/Curso/HTML/Modulo10/prueba/indexA.html",
+		"/C/Users/Usuario/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/F93KRF9X/manifest (1).webapp",
+		"/D/Mis documentos en C/Antonio/Curso/HTML/Modulo9/Desarrollo/manifest.webapp",
+		"/D/Mis documentos en C/Antonio/Curso/HTML/Modulo10/Geo/geolocalizador.html",
+		"/D/Mis documentos en C/Antonio/Curso/HTML/Modulo10/prueba/css/reset.css",
+		"/D/Mis documentos en C/Antonio/Curso/HTML/Modulo10/Geo/geoN.html",
+		"/D/Mis documentos en C/Antonio/Curso/HTML/Modulo10/prueba/mapas.js",
+		"/D/Mis documentos en C/Antonio/Curso/HTML/Modulo10/Geo/js/mapas.js",
+		"/D/Mis documentos en C/Antonio/Curso/HTML/Modulo10/copia/geomapas2.html",
+		"/D/Mis documentos en C/Antonio/Curso/Curso Dreamwaver/geolocalizador5.html",
+		"/D/Mis documentos en C/Antonio/Curso/HTML/Modulo9/canvas4.html",
+		"/D/Mis documentos en C/Antonio/Curso/HTML/Modulo9/Desarrollo/iindex.html",
+		"/D/Mis documentos en C/Antonio/Curso/HTML/Modulo9/Desarrollo/package.manifest",
+		"/D/Mis documentos en C/Antonio/Curso/HTML/Modulo9/manifest.webapp"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"jsts",
+			"ayuda",
+			"view",
+			"header",
+			"&gt;",
+			"&lt;",
+			">",
+			"<",
+			"-iconoPunto"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			">",
+			"<",
+			"&lt;!doctype html&gt;\n&lt;html&gt;\n&lt;head&gt;\n&lt;meta charset=\"utf-8\"&gt;\n&lt;title&gt;Secciones y líneas generales de un documento HTML5&lt;/title&gt;\n&lt;style type=\"text/css\"&gt;\nbody {\n	background-color: #AAA;\n	color: red;\n	font-family: Hawaii 5-0, sans-serif;\n	font-size: 250%;	}\n&lt;/style&gt;\n&lt;/head&gt;\n\n&lt;body&gt;",
+			"&gt;",
+			"&lt;"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Medios.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 246.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
