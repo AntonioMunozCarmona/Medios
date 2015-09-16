@@ -1,0 +1,153 @@
+#!/usr/bin/env node
+
+/**
+ * Module dependencies.
+ */
+
+var app = require('../app');
+var debug = require('debug')('Medios:server');
+var http = require('http');
+/* ----- 
+    NUEVO
+    ----*/
+
+var fs = require('fs');
+
+var mimeTypes = {
+  '.js'       : 'text/javascript',
+  '.html'     : 'text/html',
+  '.css'    : 'text/css'
+};
+
+var cache = {};
+function cacheYentrega(f,cb) {
+  fs.stat(f, function(err, stats){
+    var ultimoCambio = Date.parse(stats.ctime);
+    var estaActualizado = (cache[f]) && ultimoCambio > cache[f].timestamp;
+
+    if (!cache[f] || estaActualizado){
+      fs.readFile(f, function(err, data){
+      console.log('Cargando '+f+'desde archivo');
+      if (!err){
+        cache[f] ={ content: data,
+              timestamp: Date.now() //Almacena datos tiempo actual
+            };
+      }
+      cb(err, data);
+  });
+  return;
+  }
+  console.log('Cargando '+ f +' de cache');
+  cb(null, cache[f].content);
+  }); //Final de fs.stat
+}
+
+/**
+ * Get port from environment and store in Express.
+ */
+
+var port = normalizePort(process.env.PORT || '3000');
+app.set('port', port);
+
+/**
+ * Create HTTP server.
+ */
+
+var server = http.createServer(app){
+
+  var buscar = decodeURI(request.url);
+  if (path.dirname(buscar) === '/'){ buscar='menu2.html'}
+
+  var f = path.join(__dirname,'/public/'+ buscar);
+  
+  console.log(buscar);
+  console.log(f);
+  
+  fs.access(f, fs.F_OK, function(err){
+    if (err){
+      console.log(err ? 'no access!' : 'can read/write');
+      response.writeHead(404);
+      response.end("No se ha encontrado el fichero");
+      return;
+    }
+
+  
+    cacheYentrega(f, function(err, data){
+      if (err){
+        response.writeHead(500);
+        response.end('Error del Servidor');
+        return;
+        }
+      var headers = {'Content-type': mimeTypes[path.extname(buscar)]};
+      response.writeHead(200, headers);
+      response.end(data);
+    });
+  }); 
+
+/**
+ * Listen on provided port, on all network interfaces.
+ */
+
+server.listen(port);
+server.on('error', onError);
+server.on('listening', onListening);
+
+/**
+ * Normalize a port into a number, string, or false.
+ */
+
+function normalizePort(val) {
+  var port = parseInt(val, 10);
+
+  if (isNaN(port)) {
+    // named pipe
+    return val;
+  }
+
+  if (port >= 0) {
+    // port number
+    return port;
+  }
+
+  return false;
+}
+
+/**
+ * Event listener for HTTP server "error" event.
+ */
+
+function onError(error) {
+  if (error.syscall !== 'listen') {
+    throw error;
+  }
+
+  var bind = typeof port === 'string'
+    ? 'Pipe ' + port
+    : 'Port ' + port;
+
+  // handle specific listen errors with friendly messages
+  switch (error.code) {
+    case 'EACCES':
+      console.error(bind + ' requires elevated privileges');
+      process.exit(1);
+      break;
+    case 'EADDRINUSE':
+      console.error(bind + ' is already in use');
+      process.exit(1);
+      break;
+    default:
+      throw error;
+  }
+}
+
+/**
+ * Event listener for HTTP server "listening" event.
+ */
+
+function onListening() {
+  var addr = server.address();
+  var bind = typeof addr === 'string'
+    ? 'pipe ' + addr
+    : 'port ' + addr.port;
+  debug('Listening on ' + bind);
+}
