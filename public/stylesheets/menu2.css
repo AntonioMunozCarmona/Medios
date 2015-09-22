@@ -123,9 +123,13 @@ footer{
 }
 */
 @media screen and (max-width:800px){
+	
     #menu li, #menu li a {line-height:50px; width:200px;text-align:left;padding-left:5px;}
    
     #menu li.click ul {left:0px; top:50px;}
+
+    #menu li.click ul li.hover ul, 
+#menu li.click ul li.hover ul li.hover ul {left:0px; top:50px; }
 
     h1,h3 {width: 90%;}
     
